@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"msxSkulton",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":512,
+  "compression":0,
+  "conversionMode":0,
+  "duration":134.40436,
+  "name":"msxSkulton",
+  "parent":{
+    "name":"Meta",
+    "path":"folders/Sounds/Musics/Meta.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"msxSkulton.wav",
+  "type":1,
+  "volume":1.0,
+}

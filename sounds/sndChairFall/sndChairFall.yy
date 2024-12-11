@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndChairFall",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.548549,
+  "name":"sndChairFall",
+  "parent":{
+    "name":"Entities",
+    "path":"folders/Sounds/Events/Entities.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"sndChairFall.wav",
+  "type":1,
+  "volume":1.0,
+}

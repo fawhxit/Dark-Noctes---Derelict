@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndLaugh",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.871917,
+  "name":"sndLaugh",
+  "parent":{
+    "name":"Monster1",
+    "path":"folders/Sounds/Monster/Monster1.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"sndLaugh.wav",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"scanDecline",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.503673,
+  "name":"scanDecline",
+  "parent":{
+    "name":"Keycard",
+    "path":"folders/Sounds/Tech/Keycard.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"scanDecline.wav",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"colonyStation",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":190.90286,
+  "name":"colonyStation",
+  "parent":{
+    "name":"Colony",
+    "path":"folders/Sounds/Colony.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"colonyStation.wav",
+  "type":1,
+  "volume":1.0,
+}

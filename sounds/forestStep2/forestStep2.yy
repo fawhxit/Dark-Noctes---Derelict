@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"forestStep2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.652245,
+  "name":"forestStep2",
+  "parent":{
+    "name":"Steps",
+    "path":"folders/Sounds/Outdoor/Steps.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"forestStep2.wav",
+  "type":1,
+  "volume":1.0,
+}

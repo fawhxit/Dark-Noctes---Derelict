@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndHitCrowbarReverb",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.048005,
+  "name":"sndHitCrowbarReverb",
+  "parent":{
+    "name":"Indoor",
+    "path":"folders/Sounds/Events/Indoor.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"sndHitCrowbarReverb.wav",
+  "type":1,
+  "volume":1.0,
+}

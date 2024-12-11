@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"scanAccept",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.071,
+  "name":"scanAccept",
+  "parent":{
+    "name":"Keycard",
+    "path":"folders/Sounds/Tech/Keycard.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"scanAccept.mp3",
+  "type":1,
+  "volume":1.0,
+}

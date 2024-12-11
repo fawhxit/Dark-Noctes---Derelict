@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"log1_1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":50.75,
+  "name":"log1_1",
+  "parent":{
+    "name":"Log 1",
+    "path":"folders/Sounds/Voice Logs/Log 1.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"log1_1.wav",
+  "type":1,
+  "volume":1.0,
+}

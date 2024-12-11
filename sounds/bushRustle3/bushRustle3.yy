@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bushRustle3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.120023,
+  "name":"bushRustle3",
+  "parent":{
+    "name":"Foliage",
+    "path":"folders/Sounds/Outdoor/Foliage.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"bushRustle3.wav",
+  "type":1,
+  "volume":1.0,
+}

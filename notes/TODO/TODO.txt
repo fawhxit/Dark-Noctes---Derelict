@@ -1,0 +1,133 @@
+_________________________
+
+WIP
+_________________________
+
+RELEASE CRUNCH:
+
+Notes to self: Ok, tired of trying to do too much etc. Let's just get this thing up on Steam.
+Let's just get a sufficent amount of audio logs done and implemented, got the first 3 of "Mark Henson"
+done, want to add several more.
+
+Finish Adding Audio Logs; Record More, 3/? Recorded so far; 3/3 Implemented
+	- Audio Logs @ Trail3, Bunker4, Couryard0
+	- Audio Logs Normalized to ~-6(R) and -18(L) in Audacity
+
+Playthrough a couple times to iron out kinks and quirks.
+
+Fix the damn tree spawns, they're blocking too much of the view damn it.
+
+Let's make it to where "Previous/Back" nodes are automatically found and also
+that found nodes are highlighted in some way to make navigation less tedious.
+
+Make sure monster isn't glitching out.
+
+Do Release.
+
+Disregard "Old Notes" for now
+
+______________
+
+DONE (CRUNCH)
+______________
+
+Undo the weird lighting effects from the lightening and balance out the darkness blend_off.
+	- DONE
+
+
+
+
+(OLD NOTES BELOW)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_________________________
+
+OLD NOTES
+_________________________
+
+
+RECENT FOCUS:
+
+Mess with BG image blend, blend_off darker? Looks good with lightening flashes but makes scenes too dark...
+	- Use 2 layers of BG and subtract with flashlight to show BG layer w/ normal lighting w/ flashlight?
+	- Let's just remove the interior fog and reduce the outdoors fog, it's annoying to look at
+
+Adjust lane BG objects to be 20% inside edges at most; closer to viewer; don't get as small when farther
+
+Finish implementing Crowbar and Attack/Hit Logic w/ sfx
+
+oFX Object SFX Partially broken when added in emitter,
+	keycard scanners dont work now (easy fix)
+
+Monster shouldn't be in Menu or End Screen
+	- 0% - Though I kinda like it in the end screen to dance around
+
+Monster behavior when in scene and player moves to another scene.
+	- 80% - Monster moves 67% of scene width to the side when moving scenes;
+
+Monster should have delay between appearances when destroyed as to not
+	"spam spawn" based on difficulty
+	- 75% - Just need a timer for this (easy)
+
+Show keycard "Action"
+	- 50% - Sprite Ready; Make Object that shows action sprite during Accept FX
+
+Make the monster increasingly active and aggressive
+	- 90% - Monster Kills Nicely; Difficulty Progresses;
+		Spawns Everywhere; Trigger kill if performing action near it
+
+Add more mind fuckery sounds and other visual psych-outs
+	- 50% - New Sounds Processed; Some Added; Add More
+
+Make an ending and restart when killed instead of just exiting game
+	- 0% - Might be tricky
+
+_________________________
+
+Done
+_________________________
+
+
+Add Random Keycards and Doors to section off each area.
+	- 100% - Keycards Added; Doors Implemented; Nice :)
+
+Make an ending via escaping with keys from the final section
+	- 100% - Mapped Out; Key & Node Implemented; End Game Done
+
+Red Light FX @ Bunker 11 0.76x/0.39y DONE
+
+
+_________________________
+
+First Release - The Maze
+_________________________
+
+_________________________
+
+Planned Work - Next Release
+_________________________
+
+
+Add a random code to find and use to unlock vehicle depot from security tower
+	- 25% - Random Code Generated; Use Security Tower Terminal to Unlock Depot
+
+Make Hit action onto monster with strong stick which breaks with 1 use or
+	crowbar which doesnt break and can deter the monster temporarily
+	- 25% - Stick looks good!; Add Crowbar; Add Hit Action
+

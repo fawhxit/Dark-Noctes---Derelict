@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"doorClose",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.68898,
+  "name":"doorClose",
+  "parent":{
+    "name":"Door",
+    "path":"folders/Sounds/Tech/Door.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"doorClose.wav",
+  "type":1,
+  "volume":1.0,
+}

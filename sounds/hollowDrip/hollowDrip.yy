@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"hollowDrip",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":89.82046,
+  "name":"hollowDrip",
+  "parent":{
+    "name":"Cave",
+    "path":"folders/Sounds/Cave.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"hollowDrip.wav",
+  "type":1,
+  "volume":1.0,
+}

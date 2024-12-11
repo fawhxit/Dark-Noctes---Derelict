@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"twigSnap",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.843016,
+  "name":"twigSnap",
+  "parent":{
+    "name":"Foliage",
+    "path":"folders/Sounds/Outdoor/Foliage.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"twigSnap.wav",
+  "type":1,
+  "volume":1.0,
+}

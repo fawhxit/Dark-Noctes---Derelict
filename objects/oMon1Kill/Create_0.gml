@@ -1,0 +1,10 @@
+/// @description Init
+gpar = noone
+par = noone
+kf = Gspd
+kfi = 0
+krot = random_range(-20,20)
+scl = 0
+image_xscale = scl
+image_yscale = scl
+image_alpha = 0

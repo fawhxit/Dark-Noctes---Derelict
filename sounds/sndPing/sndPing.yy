@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndPing",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.84,
+  "name":"sndPing",
+  "parent":{
+    "name":"Meta",
+    "path":"folders/Sounds/Meta.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"sndPing.wav",
+  "type":1,
+  "volume":1.0,
+}
